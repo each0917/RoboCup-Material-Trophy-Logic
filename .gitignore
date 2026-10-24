@@ -1,0 +1,27 @@
+# Keil 编译输出
+Objects/
+Listings/
+*.o
+*.d
+*.axf
+*.elf
+*.hex
+*.map
+*.lst
+*.crf
+*.dep
+*.iex
+*.sct
+
+# Keil 个人配置文件
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
